@@ -20,7 +20,7 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 
 ### Médiathèque Les Tilleuls
 
-![Capture d'écran de l'application [nom du projet IA]]({{ '/assets/capture-projet-ia.png' | relative_url }})
+![Capture d'écran de l'application Médiathèque Les Tilleuls]({{ '/assets/capture-projet-ia.png' | relative_url }})
 
 **Ce que fait l'application :** Une application web IA pour la Médiathèque Les Tilleuls qui répond automatiquement aux questions des usagers et agents d'accueil sur le règlement de la médiathèque. Le modèle de langage (Ollama) génère des réponses courtes citant les articles pertinents, résolvant ainsi le problème des 40 appels/emails hebdomadaires redondants. L'IA apporte la rapidité et la précision : réponses instantanées, calcul des pénalités de retard, et refus des demandes hors sujet..
 
@@ -48,7 +48,7 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 
 ## CV et contact
 
-<a class="btn" href="{{ '/cv/CV_POULENARD_Alexandre.pdf' | relative_url }}" download>Télécharger mon CV (PDF)</a>
+<a class="btn" href="{{ '/cv/cv_poulenard_alexandre.pdf' | relative_url }}" download>Télécharger mon CV (PDF)</a>
 
 - **E-mail :** [poulenardalexandre.pro@gmail.com](mailto:poulenardalexandre.pro@gmail.com)
 - **LinkedIn :** [linkedin.com/in/Alexandre POULENARD](https://www.linkedin.com/in/alexandre-poulenard-25265b397/)
