@@ -1,7 +1,8 @@
 # Informations sur le site
-title: Mon Super Portfolio
-description: Bienvenue sur mon site hébergé avec GitHub Pages !
-author: Votre Nom
+title: "Alexandre POULENARD – Portfolio"
+description: "BTS SIO option SLAM — Lycée Simone Weil"
+author: "Alexandre Poulenard"
+lang: fr
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
