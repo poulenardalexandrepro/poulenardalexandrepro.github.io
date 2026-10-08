@@ -18,7 +18,7 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 
 ## Projets
 
-### [Nom du projet IA]
+### Médiathèque Les Tilleuls
 
 ![Capture d'écran de l'application [nom du projet IA]]({{ '/assets/capture-projet-ia.png' | relative_url }})
 
@@ -32,8 +32,9 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 - **Évaluation automatisée** (`evaluer.py`) : script autonome de test qui rejoint le taux de réussite et le temps médian
 - **Déploiement en production** : Docker + docker-compose avec Cloudflare Tunnel pour exposer publiquement l'app avec un tunnel sécurisé.
 
-**Technologies :** 
-| Élément | Détail |
+**Technologies :**   
+
+| Élément | Détail |  
 |--------|--------|
 | **Python** | 99,5 % du code (FastAPI, httpx, json, logging) |
 | **API / Modèle IA** | Ollama (API `/api/chat`) — modèle `qwen2.5:3b` par défaut |
@@ -49,6 +50,6 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 
 <a class="btn" href="{{ '/cv/CV_POULENARD_Alexandre.pdf' | relative_url }}" download>Télécharger mon CV (PDF)</a>
 
-- **E-mail :** [prenom.nom@exemple.fr](mailto:prenom.nom@exemple.fr)
-- **LinkedIn :** [linkedin.com/in/votre-profil](https://www.linkedin.com/in/votre-profil/)
-- **GitHub :** [github.com/votre-pseudo](https://github.com/votre-pseudo)
+- **E-mail :** [poulenardalexandre.pro@gmail.com](mailto:poulenardalexandre.pro@gmail.com)
+- **LinkedIn :** [linkedin.com/in/Alexandre POULENARD](www.linkedin.com/in/alexandre-poulenard-25265b397)
+- **GitHub :** [github.com/poulenardalexandrepro](https://github.com/poulenardalexandrepro)
