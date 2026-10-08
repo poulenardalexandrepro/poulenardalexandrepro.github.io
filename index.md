@@ -51,5 +51,5 @@ Je suis étudiant de 2ème année en BTS SIO option SLAM au lycée Simone Weil. 
 <a class="btn" href="{{ '/cv/CV_POULENARD_Alexandre.pdf' | relative_url }}" download>Télécharger mon CV (PDF)</a>
 
 - **E-mail :** [poulenardalexandre.pro@gmail.com](mailto:poulenardalexandre.pro@gmail.com)
-- **LinkedIn :** [linkedin.com/in/Alexandre POULENARD](www.linkedin.com/in/alexandre-poulenard-25265b397)
+- **LinkedIn :** [linkedin.com/in/Alexandre POULENARD](https://www.linkedin.com/in/alexandre-poulenard-25265b397/)
 - **GitHub :** [github.com/poulenardalexandrepro](https://github.com/poulenardalexandrepro)
